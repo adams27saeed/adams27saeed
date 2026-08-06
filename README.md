@@ -8,7 +8,7 @@ Strong organisation and clear written communication
 Genuine AI-tool fluency — daily use for research, drafting, and workflow support
 Certified in Google AI Essentials, Google Project Management (in progress), and the full HubSpot Academy suite (Inbound, CRM, Sales Hub, Service Hub, Content Marketing)
 Portfolio
-See op-system-portfolio for work samples, including a client-facing Inbox Management SOP.
+See portfolio for work samples, including a client-facing Inbox Management SOP.
 
 Let's connect
 LinkedIn: [linkedin.com/in/saeed-adams-15420138b]
