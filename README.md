@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Sa'eed Adams 👋
+Operations & Project Support | BCom Student | AI-Tool Fluent
 
-<!--
-**adams27saeed/adams27saeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year BCom student in Cape Town, South Africa, building a career in operations and project management. I help founders and small teams run leaner by handling the operational and administrative work that keeps things moving — inbox and CRM management, scheduling, systems organisation — and I'm learning automation tools (Make.com, Zapier) to streamline the repetitive parts.
 
-Here are some ideas to get you started:
+What I bring
+Strong organisation and clear written communication
+Genuine AI-tool fluency — daily use for research, drafting, and workflow support
+Certified in Google AI Essentials, Google Project Management (in progress), and the full HubSpot Academy suite (Inbound, CRM, Sales Hub, Service Hub, Content Marketing)
+Portfolio
+See op-system-portfolio for work samples, including a client-facing Inbox Management SOP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect
+LinkedIn: [linkedin.com/in/saeed-adams-15420138b]
+Email: adams.27saeed@gmail.com
